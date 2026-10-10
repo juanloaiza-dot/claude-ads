@@ -91,6 +91,8 @@ filtrado, espresso, comida, número de puestos, enchufes, wifi y ocupación entr
 
 ## 5. Inversión inicial estimada (cotizar todo)
 
+> Reemplazada por `inversion-local-36m2.md` (local real de 36 m²).
+
 Un local de $4 M en Chapinero suele tener entre 80 y 120 m². Rangos:
 
 | Rubro | Austero | Completo |
@@ -171,6 +173,8 @@ generar unos $7.000**. Quien se queda 4 horas debería gastar unos $28.000.
   medir, no un benchmark).
 
 ## 7. Estado de resultados mensual estimado
+
+> Reemplazado por `inversion-local-36m2.md` (local real de 36 m²).
 
 Supuestos de nómina: salario mínimo 2026 de $1.750.905 + $249.095 de auxilio
 de transporte [16]. Jornada de 42 h semanales desde el 15 de julio de 2026 [16].
