@@ -25,6 +25,24 @@ ventas** (más del 18 % es señal de alarma) [5][6]. Con $4.000.000 de arriendo:
 **Meta: vender como mínimo $33–35 M al mes.** Con un ticket promedio de unos
 $22.500, eso equivale a **unos 55 tickets diarios** en 28 días de operación.
 
+## 2.1 El espacio (casa candidata)
+
+Casa de ladrillo con dos volúmenes: una barra abierta a la calle, una terraza
+lateral y una casa al fondo con ventanales. El proyecto aún no tiene nombre.
+
+- **Barra a la calle** → café para llevar y la barra de filtrado a la vista.
+  Hoy está montada solo para espresso: agregar una estación de filtrado (V60,
+  Origami, AeroPress) frente al cliente.
+- **Terraza (~12–14 puestos)** → zona social. Necesita cubierta y calefactores
+  para no perder puestos con la lluvia y el frío.
+- **Casa del fondo** → zona de trabajo silenciosa: mesas grandes, enchufes en
+  cada puesto, buena luz de día. Debe aportar al menos 15–20 puestos para
+  llegar a unos 30 en total.
+- **Estantería de la barra** → tienda (grano y accesorios 3D).
+
+Datos pendientes: m² por zona, número de puestos interiores, si los $4 M
+cubren la casa completa, uso de suelo permitido y estado de la red eléctrica.
+
 ## 3. Cómo funcionan las cafeterías (márgenes de referencia)
 
 Benchmarks internacionales de cafés independientes. Las fuentes no coinciden
