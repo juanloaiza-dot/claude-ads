@@ -140,3 +140,26 @@ de grano y accesorios lleva IVA.
 - [ ] Ficha del café del proveedor (puntaje, variedad, fecha de tueste) y una muestra.
 - [ ] Cotización de un molino de filtrado y del tratamiento de agua.
 - [ ] Régimen tributario y carga laboral real con un contador.
+
+## 8. Puestos vs. costos (RevPASH)
+
+Métrica estándar en restaurantes: **RevPASH**, ingreso por puesto disponible
+por hora (Kimes, Cornell). Supuestos: 16 puestos (5 adentro + 11 en
+terraza), 12 h × 26 días = 312 h/mes → **4.992 puestos-hora/mes**.
+
+| Indicador | Valor |
+|---|---|
+| Costo fijo por puesto-hora disponible (13,4 M ÷ 4.992) | ≈ $2.700 |
+| Arriendo por puesto al mes (4 M ÷ 16) | $250.000 |
+| RevPASH de equilibrio (si todo se vendiera en mesa) | ≈ $3.700 |
+| Con 50 % de ventas para llevar: ventas en mesa por puesto | ≈ $575.000/mes ≈ $22.000/día |
+| Gasto necesario por hora de permanencia, con 50 % de ocupación | ≈ $7.400 |
+
+- Quien se queda 2 h debería gastar unos $15.000. Quien se queda 4 h, unos
+  $30.000 (de ahí el precio del pase de trabajo).
+- **Un puesto extra** (mesa + 2 sillas de terraza ≈ $0,8–1,5 M) no sube los
+  costos fijos. Si se ocupa, genera ~$400.000/mes de contribución y se paga en
+  2–4 meses. El límite lo ponen la comodidad (~1,2–1,5 m² por puesto con la
+  circulación incluida) y la capacidad del barista, no el costo.
+- Medir cada semana: ocupación por franja horaria, permanencia promedio,
+  RevPASH por franja y % de ventas para llevar.
